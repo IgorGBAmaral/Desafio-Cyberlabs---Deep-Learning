@@ -24,11 +24,11 @@
 - O que me deixou mais satisfeito, é que se eu quiser treinar novas classes, é bem simples de adaptar esse código
 - Também fiquei feliz pois aprendi a buscar conhecimento em lugares que eu não costumava buscar, e com certeza me tornei um programador melhor, estou empolgado e quero aprender ainda mais
 
-###Arquitetura
+### Arquitetura
 
 - Tensorflow
 - Keras
 - Numpy
 
-###Processamento de imagem
+### Processamento de imagem
 O processamento foi feito reduzindo o tamanho da imagem(para ter um treinamento mais rápido) e a transformando em um tensor, que era usado no treinamento
